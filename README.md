@@ -3,7 +3,7 @@ PDPi-11
 
 PDPi-11 - PDP-11 on the Raspberry Pi
 
-PiDP-11 is a software bundle containing a PDP-11 simulator and various operating
+PDPi-11 is a software bundle containing a PDP-11 simulator and various operating
 systems from the hugely popular (in it's time) minicomputer.
 
 ## Why?
@@ -23,7 +23,7 @@ pre-built simulator binaries along with config and OS disk images, all
 wrapped with neat startup scripts to make getting started simple.
 
 ## Supported PDP-11 Operating Systems
-Currently the following operating systems are provided with PiDP-11. To start
+Currently the following operating systems are provided with PDPi-11. To start
 an OS you just need to run the appropriate shell script.
 
 * dosbatch-11 - DOS/Batch-11 V10
