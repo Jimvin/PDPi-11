@@ -1,0 +1,8 @@
+#!/bin/bash
+DIR=`/usr/bin/dirname $0`
+
+echo "RT-11 V5.3"
+echo
+
+$DIR/bin/pdp11 $DIR/init/rt-11-v53-ethernet
+

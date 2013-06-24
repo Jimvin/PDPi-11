@@ -1,0 +1,5 @@
+ATTACH XQ0 eth0
+set cpu u18
+set rl0 RL02
+att rl0 disks/unix_v7_rl.dsk
+boot rl0 

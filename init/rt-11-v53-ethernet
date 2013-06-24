@@ -1,0 +1,4 @@
+ATTACH XQ0 eth0
+set rl0 rl02
+att rl0 disks/rtv53_rl_ethernet.dsk
+boot rl0

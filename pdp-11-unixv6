@@ -1,0 +1,15 @@
+#!/bin/bash
+DIR=`/usr/bin/dirname $0`
+
+echo "Boot into UNIX V6 by typing this at the @ prompt:"
+echo "@unix"
+echo
+echo "login: "
+echo
+echo "Log in as root (no password required)"
+echo
+echo "Press CTRL-E to get back to the simulator sim> prompt"
+echo "Type exit to quit the simulator"
+
+$DIR/bin/pdp11 $DIR/init/pdp-11-unixv6
+

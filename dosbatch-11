@@ -1,0 +1,11 @@
+#!/bin/bash
+DIR=`/usr/bin/dirname $0`
+
+echo "DOS/Batch-11 V10 will boot automatically"
+echo "You must enter the date and time in the format DD-MMM-YY"
+echo "and HH:mm respectively."
+echo
+echo "See docs/dosbatch-11.txt for more information."
+
+$DIR/bin/pdp11 $DIR/init/dosbatch-11
+

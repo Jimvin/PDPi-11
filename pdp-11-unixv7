@@ -1,0 +1,13 @@
+#!/bin/bash
+DIR=`/usr/bin/dirname $0`
+
+echo "Boot into UNIX V7 by typing this at the @ prompt:"
+echo "@boot"
+echo "New Boot, known devices are hp ht rk rl rp tm vt"
+echo ": rl(0,0)rl2unix"
+echo
+echo "Press CTRL-E to get back to the simulator sim> prompt"
+echo "Type exit to quit the simulator"
+
+$DIR/bin/pdp11 $DIR/init/pdp-11-unixv7
+

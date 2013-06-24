@@ -1,0 +1,6 @@
+set cpu u18
+att rk0 disks/unix0_v6_rk.dsk
+att rk1 disks/unix1_v6_rk.dsk
+att rk2 disks/unix2_v6_rk.dsk
+att rk3 disks/unix3_v6_rk.dsk
+boot rk0

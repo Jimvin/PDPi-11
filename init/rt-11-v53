@@ -1,0 +1,3 @@
+set rl0 rl02
+att rl0 disks/rtv53_rl.dsk
+boot rl0
