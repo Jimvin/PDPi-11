@@ -26,13 +26,16 @@ wrapped with neat startup scripts to make getting started simple.
 Currently the following operating systems are provided with PiDP-11. To start
 an OS you just need to run the appropriate shell script.
 
-dosbatch-11 - DOS/Batch-11 V10
-pdp-11-unixv6 - PDP-11 UNIX V6
-pdp-11-unixv7 - PDP-11 UNIX V7
-rt-11-v53 - RT-11 v5.3
-rt-11-v53-ethernet - RT-11 v5.3 with an ethernet card configured
+* dosbatch-11 - DOS/Batch-11 V10
+* pdp-11-unixv6 - PDP-11 UNIX V6
+* pdp-11-unixv7 - PDP-11 UNIX V7
+* rt-11-v53 - RT-11 v5.3
+* rt-11-v53-ethernet - RT-11 v5.3 with an ethernet card configured
 
 ## References
 [1] http://www.vintage-computer.com/vcforum/showthread.php?37827-Greetings-from-GE-Canada
+
 [2] http://simh.trailing-edge.com/
+
 [3] https://github.com/simh/simh
+
