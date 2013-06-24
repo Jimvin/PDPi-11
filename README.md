@@ -1,9 +1,8 @@
 PDPi-11
 =======
 
-PDPi-11 = PDP-11 on the Raspberry Pi
+PDPi-11 - PDP-11 on the Raspberry Pi
 
-## What?
 PiDP-11 is a software bundle containing a PDP-11 simulator and various operating
 systems from the hugely popular (in it's time) minicomputer.
 
